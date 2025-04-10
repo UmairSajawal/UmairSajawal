@@ -1,3 +1,4 @@
+👋 Hi...I'm Umair Sajawal
 # 💫 About Me:
 🔭 I’m currently working on improving my JavaScript full-stack development skills through real-world projects.<br>👯 I’m looking to collaborate on open-source projects and web development challenges.<br>🤝 I’m looking for help with advanced backend concepts and best practices in Node.js.<br>🌱 I’m currently learning Express.js, MongoDB, and modern JavaScript frameworks like React.<br>💬 Ask me about PHP, C++, python basics, or anything JavaScript-related!<br>⚡ Fun fact: I love turning complex problems into simple, clean code — and I never stop learning!
 
